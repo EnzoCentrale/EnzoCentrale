@@ -1,5 +1,7 @@
 # Greetings, 
-I am a
+Student in Data engeneering/management 
+Gotta create more 
+
 
 🪨 - pyhton 
 - rust 
