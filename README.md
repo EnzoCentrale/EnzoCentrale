@@ -1,7 +1,10 @@
-# Greetings, 
-Student in Data engeneering/management 
-Gotta create more 
+# Hello there,
+I am a student in Data Science in a double diploma between Centrale Lyon & Em-lyon.
 
 
-🪨 - pyhton 
-- rust 
+
+
+🪨 
+- python 
+- rust
+- 
